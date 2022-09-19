@@ -57,4 +57,4 @@ Building a website with HTML & CSS to fit a client mockup image. Work included:
 
 
 # Project Visual :sunglasses:
-![Project-picture](https://user-images.githubusercontent.com/77648727/107858055-eb266600-6de6-11eb-80a7-3dfeeaa5ec4b.png)
+![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGmGjAmlrXRsw/feedshare-shrink_2048_1536/0/1663576166089?e=1666224000&v=beta&t=etG1zfPhKI--ro1aXheYTiolD6HrkJh4KkcxKcgp8PM)
