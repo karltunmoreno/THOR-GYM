@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 ## Website
 
-https://karltunmoreno.github.io/Run-Buddy-Gym/
+
 
 
 ## Contribution
