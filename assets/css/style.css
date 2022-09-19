@@ -34,14 +34,14 @@ header {
 header h1 {
   font-weight: bold;
   font-size: 36px;
-  color: var(--primary-color);
+  color: var(--tertiary-color);
   margin: 0;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 header a {
   text-decoration: none;
-  color: var(--primary-color);
+  color: var(--tertiary-color);
 }
 
 header nav {
@@ -79,7 +79,7 @@ header h1 {
 
 /*Footer styling */
 footer {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
   width: 100%;
   padding: 40px 35px;
   display: flex;
@@ -121,7 +121,7 @@ footer a {
 .hero-form {
   background-color: rgba(252, 225, 56, 0.8);
   padding: 20px;
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
   border: solid 3px var(--secondary-color);
   width: 40%;
   margin: 3.5%;
@@ -238,7 +238,7 @@ footer a {
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
-  color: var(--primary-color);
+  color: var(--tertiary-color);
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -270,7 +270,7 @@ footer a {
 }
 /*Steps styling */
 .steps {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
   padding: 40px 0;
 }
 .step h3 {
@@ -330,7 +330,7 @@ footer a {
 .trainer {
   margin: 20px;
   background: var(--secondary-color);
-  color: var(--primary-color);
+  color: var(--tertiary-color);
   flex: 1;
 }
 .trainer-1 {
@@ -416,7 +416,7 @@ footer a {
 }
 /*Service plan with grid section */
 .service-grid-container {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
   width: 80%;
   display: grid;
   grid-template-columns: 1fr repeat(2, 4fr);
@@ -454,7 +454,7 @@ footer a {
 }
 /* Reach out section */
 .contact {
-  background: var(--secondary-color);
+  background: var(--tertiary-color);
   padding: 40px 0;
 }
 .contact h2 {
