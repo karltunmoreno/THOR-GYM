@@ -1,4 +1,8 @@
-# THOR-GYM
+### THOR-GYM
+![Project-picture](https://karltunmoreno.github.io/My-Portfolio/assets/images/Thorgym.jpg)
+________________________________________________________________________________________________________________________________________________________________
+
+
 
 ________________________________________________________________________________________________________________________________________________________________
 ## Purpose
@@ -57,4 +61,4 @@ Building a website with HTML & CSS to fit a client mockup image. Work included:
 
 
 # Project Visual :sunglasses:
-![Project-picture](https://media-exp1.licdn.com/dms/image/C5622AQGmGjAmlrXRsw/feedshare-shrink_2048_1536/0/1663576166089?e=1666224000&v=beta&t=etG1zfPhKI--ro1aXheYTiolD6HrkJh4KkcxKcgp8PM)
+
