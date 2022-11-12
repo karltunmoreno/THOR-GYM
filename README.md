@@ -1,14 +1,13 @@
 ### THOR-GYM
-![Project-picture](https://karltunmoreno.github.io/My-Portfolio/assets/images/Thorgym.jpg)
-________________________________________________________________________________________________________________________________________________________________
-
-
 
 ________________________________________________________________________________________________________________________________________________________________
 ## Purpose
 A responsive website that offers fitness training services.
 ____________________________________________________________________________________________________________________________________________________________________
+ Project Visual :sunglasses:
 
+![Project-picture](https://karltunmoreno.github.io/My-Portfolio/assets/images/Thorgym.jpg)
+___________________________________________________________________________________________________________________________________________________________________
 ## What needs to be done.
 1. Create a new feature branch.
 
@@ -60,5 +59,5 @@ Building a website with HTML & CSS to fit a client mockup image. Work included:
 - [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text 
 
 
-# Project Visual :sunglasses:
+
 
